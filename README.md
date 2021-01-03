@@ -1,6 +1,6 @@
 # web_backend_study
 
-부스트코스 웹 백엔드
+>부스트코스 웹 백엔드
 
 1. cardmanager
   * db 연동 ( 추가, 검색 )
